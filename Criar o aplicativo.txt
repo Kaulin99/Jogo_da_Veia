@@ -1,0 +1,25 @@
+Primeiro passo, criar o aplicativo, viajar até a pasta
+"cd \" --Retorna tudo
+"cd.." --Retorna 1
+
+Para criar uma pasta
+"mkdir (nome da pasta)"
+
+Criar o arquivo
+"npx create-expo-app --template"
+
+Parar abrir o código
+"code ."
+
+Baixar indepedencias
+"npm install"
+
+Para ver opções de pastas
+"dir"
+
+Para rodar o app
+"npx expo start --android"
+"npx expo start" Se fizer em casa usa esse daqui
+
+Baixar sqLite
+"npx expo install sqlite" 
